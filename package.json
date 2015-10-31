@@ -1,6 +1,6 @@
 {
   "name": "ampersand-react-view",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ampersand view and react remixed.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/lsm/ampersand-react-view/issues"
   },
-  "homepage": "https://github.com/lsm/ampersand-react-view#readme"
+  "homepage": "https://github.com/lsm/ampersand-react-view#readme",
+  "dependencies": {
+    "ampersand-events": "1.1.1",
+    "ampersand-view": "8.0.1",
+    "lodash.bind": "3.1.0",
+    "lodash.flatten": "3.0.2",
+    "lodash.invoke": "3.2.3",
+    "react": "0.14.1",
+    "react-dom": "0.14.1"
+  }
 }
