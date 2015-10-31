@@ -1,6 +1,6 @@
 {
   "name": "ampersand-react-view",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Ampersand view and react remixed.",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "ampersand-view": "8.0.1",
     "lodash.bind": "3.1.0",
     "lodash.flatten": "3.0.2",
+    "lodash.foreach": "3.0.3",
     "lodash.invoke": "3.2.3",
     "react": "0.14.1",
     "react-dom": "0.14.1"
