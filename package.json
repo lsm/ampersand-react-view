@@ -1,0 +1,26 @@
+{
+  "name": "ampersand-react-view",
+  "version": "0.1.0",
+  "description": "Ampersand view and react remixed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsm/ampersand-react-view.git"
+  },
+  "keywords": [
+    "ampersand",
+    "react",
+    "view",
+    "mvc",
+    "component"
+  ],
+  "author": "lsm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsm/ampersand-react-view/issues"
+  },
+  "homepage": "https://github.com/lsm/ampersand-react-view#readme"
+}
